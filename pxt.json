@@ -1,0 +1,10 @@
+{
+    "name": "clock",
+    "description": "Microbit Clock Extension.",
+    "files": [
+        "clock.ts"
+    ],
+    "dependencies": {
+        "core": "*"
+    }
+}
